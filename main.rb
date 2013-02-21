@@ -11,7 +11,6 @@ while true
           puts i, i+1, i+2, i+4
           break
         else
-          puts i
           i += 1
           next
         end
